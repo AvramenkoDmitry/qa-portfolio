@@ -17,7 +17,9 @@ This portfolio contains links to my demo projects showcasing practical automatio
 - Includes HTML reports and CI badge  
 
 📸 Example:  
-![UI Report]([https://github.com/AvramenkoDmitry/playwright-ui-tests/blob/main/docs/screenshot-report.png](https://github.com/AvramenkoDmitry/playwright-ui-tests/blob/main/docs/report-screenshot.png))
+<img width="2286" height="1638" alt="image" src="https://github.com/user-attachments/assets/a6942705-fddd-41c8-9015-aa78cac7b867" />
+
+
 
 ---
 
